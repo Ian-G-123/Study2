@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "839593199281",
+    "project_id": "com-example-assignmentpl-ea885",
+    "storage_bucket": "com-example-assignmentpl-ea885.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839593199281:android:dd74f42030cf5d93480490",
+        "android_client_info": {
+          "package_name": "com.example.assignmentplanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVAfvO-qmEBpj_G2i3LE_m_g5B57lDjNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
